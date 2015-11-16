@@ -1,0 +1,13 @@
+{
+    "name": "rezaar/larasweetalert",
+    "description": "A package that provides a simple Alerts",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhamad Reza Abdul Rohim",
+            "email": "reza.wikrama3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
